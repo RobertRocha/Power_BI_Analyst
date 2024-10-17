@@ -1,11 +1,10 @@
 ## Power_BI_Analyst
 Projetos iniciais.
 
-##Projeto Desafio Dio módulo 3
+## Projeto Desafio Dio módulo 3
 Criação de Database e relatório utilizando MySQL e Power BI
 
 Resumo:
-
 O desafio consistiu em criar um banco de dados MySQL, em seguida esse banco de dados foi conectado ao Power BI e utilizado para elaboração de um relatório. Os dados foram limpos e transformados no Power Query, e em seguida foi feita a análise dos dados e sua visualização através de gráficos. As tranformações feitas foram:
 
 Criação de uma nova tabela contendo informações dos gerentes e seus dependentes;
@@ -27,7 +26,7 @@ Criação de gráficos intuitivos e com as principais métricas e KPI para facil
 
 
 
-Projeto desafio módulo 4
+## Projeto desafio módulo 4
 Criação do diagrama dimensional - star schema - com base no diagrama relacional
 
 Foco: Professor – objeto de análise
@@ -38,7 +37,7 @@ Criação do esquema em estrela com o foco na análise dos dados dos professores
 
 
 
-Projeto desafio módulo 5
+## Projeto desafio módulo 5
 
 Foi utilizado a tabela única de Financial Sample para criar as tabelas dimensão e fato do modelo baseado em star schema.
 O processo consiste na criação das tabelas com base na tabela original. A partir da cópia foram selecionadas as colunas que irão compor a visão da nova tabela. Sendo assim, a partir da tabela principal foram criadas as tabelas:
