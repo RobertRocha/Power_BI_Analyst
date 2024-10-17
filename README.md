@@ -1,7 +1,7 @@
-# Power_BI_Analyst
+## Power_BI_Analyst
 Projetos iniciais.
 
-Projeto Desafio Dio módulo 3
+##Projeto Desafio Dio módulo 3
 Criação de Database e relatório utilizando MySQL e Power BI
 
 Resumo:
