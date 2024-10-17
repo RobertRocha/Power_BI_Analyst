@@ -25,12 +25,49 @@ Criação de gráficos intuitivos e com as principais métricas e KPI para facil
 
 
 
+
+
 Projeto desafio módulo 4
 Criação do diagrama dimensional - star schema - com base no diagrama relacional
 
 Foco: Professor – objeto de análise
 
 Criação do esquema em estrela com o foco na análise dos dados dos professores. Sendo assim, a tabela fato refleti diversos dados sobre professor, cursos ministrados, departamento e disciplina.
+
+
+
+
+
+Projeto desafio módulo 5
+
+Foi utilizado a tabela única de Financial Sample para criar as tabelas dimensão e fato do modelo baseado em star schema.
+O processo consiste na criação das tabelas com base na tabela original. A partir da cópia foram selecionadas as colunas que irão compor a visão da nova tabela. Sendo assim, a partir da tabela principal foram criadas as tabelas:
+
+Dim_Produtos (ID_produto, Produto, Média de Unidades Vendidas, Médias do valor de vendas, Mediana do valor de vendas, Valor máximo de Venda, Valor mínimo de Venda)
+
+Dim_Produtos_Detalhes(ID_produtos, Discount Band, Sale Price, Units Sold, Manufactoring Price)
+
+Dim_Descontos (ID_produto, Discount, Discount Band)
+
+Dim_Detalhes (*)
+
+Dim_Calendário – Criada por DAX com calendar()
+
+F_Vendas (SK_ID , ID_Produto, Produto, Units Sold, Sales Price, Discount Band, Segment, Country, Salers, Profit, Date (campos))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
