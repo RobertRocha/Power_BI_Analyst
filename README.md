@@ -56,7 +56,28 @@ F_Vendas (SK_ID , ID_Produto, Produto, Units Sold, Sales Price, Discount Band, S
 
 
 
+## Projeto desafio modulo 6
 
+Criação de um relatório financeiro com foco na experiência do usuário, levando em consideração os seguintes pontos:
+
+· Posicionamento
+
+· Contraste
+
+· Proporção áurea
+
+· Segmentação dos dados
+
+
+próximo passo:
+
+· Inserção de botões de navegabilidade
+
+· foi Modificado os botões de navegabilidade a fim de destacar o focalizar e selecionar
+
+· Criação dos menus de navegabilidade em cada página
+
+· O relatório é composto por 3 páginas
 
 
 
