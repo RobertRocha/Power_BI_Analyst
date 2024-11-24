@@ -80,8 +80,14 @@ próximo passo:
 · O relatório é composto por 3 páginas
 
 
+## Projeto dessfio dio módulo 7
 
-
+Criação de um relatório focado na análise de vendas e lucros, utilizando:
+ - Botões de navegação ,
+ - Agrupamento,
+ - função para variar as cores do gráfico,
+ - Linha para mostrar a média de vendas de um período,
+ - Rótulo de dados.
 
 
 
