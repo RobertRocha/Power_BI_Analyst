@@ -80,7 +80,7 @@ próximo passo:
 · O relatório é composto por 3 páginas
 
 
-## Projeto dessfio dio módulo 7
+## Projeto desafio módulo 7
 
 Criação de um relatório focado na análise de vendas e lucros, utilizando:
  - Botões de navegação ,
