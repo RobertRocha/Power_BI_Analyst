@@ -91,6 +91,9 @@ Criação de um relatório focado na análise de vendas e lucros, utilizando:
 
 
 
+## Projeto desafio módulo 8
+
+Criação de parâmetros de campo para categorização e também para distribuição de valores numéricos dentro do relatório. 
 
 
 
